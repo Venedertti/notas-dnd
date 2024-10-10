@@ -1,20 +1,24 @@
-#### **As Sombras sobre o Leste**
+---
+share_link: https://share.note.sx/n4zaw6r1#mtM5w57GoJWCDnzoXQ9TOtEHSZ8+c4us+t+LS0VsWZM
+share_updated: 2024-10-10T19:51:53-03:00
+---
+#### **As Sombras sobre o Oeste**
 
-Enquanto o poder do Imperador Dhes’zon crescia, o leste de Faerûn tornava-se um deserto sombrio. Por onde passavam os exércitos dos **Magos Vermelhos**, deixavam um rastro de destruição e cadáveres que logo se levantavam como servos de necromantes impiedosos. As raças exóticas que outrora prosperavam nas florestas e planícies foram banidas de suas terras. Em vez de paz, enfrentavam os horrores da magia negra e a morte se tornava uma certeza inescapável. Orcs, Minotauro, goblins, e outras criaturas eram dizimadas ou forçadas a uma vida errante, fugindo dos exércitos de mortos-vivos que infestavam as terras.
+Enquanto o poder do Imperador Dhes’zon crescia, o oeste de Faerûn tornava-se um deserto sombrio. Por onde passavam os exércitos dos **Magos Vermelhos**, deixavam um rastro de destruição e cadáveres que logo se levantavam como servos de necromantes impiedosos. As raças exóticas que outrora prosperavam nas florestas e planícies foram banidas de suas terras. Em vez de paz, enfrentavam os horrores da magia negra e a morte se tornava uma certeza inescapável. Orcs, Minotauro, goblins, e outras criaturas eram dizimadas ou forçadas a uma vida errante, fugindo dos exércitos de mortos-vivos que infestavam as terras.
 
 Foi neste caos que, numa vila remota compartilhada entre orcs e Minotauro humanoides, nasceu **Sunodagh**, o filho do chefe guerreiro **Otugbu**. Mas ele já nasceu sob o signo do exílio. Sua vila foi uma das primeiras a cair ante o poder avassalador dos magos vermelhos. Quando ainda era um bebê, Sunodagh viu sua casa ser devastada, seus parentes e amigos caírem em batalha, e cresceu aprendendo a arte da fuga, algo que era considerado uma vergonha entre os orcs, conhecidos por sua bravura e resistência em combate.
 
 Mesmo assim, sua vida se resumiu a ser um andarilho, sem lar, carregando nas costas o fardo da derrota e a memória de um povo que estava sendo erradicado. Com apenas 10 anos, Sunodagh perdeu seu pai, **Otugbu**, que partiu para uma última tentativa de defender sua casa. Ele caiu nas mãos dos exércitos necromânticos de Thay, e Sunodagh foi deixado sozinho, um órfão em um mundo sombrio.
 
-#### **A Ascensão de Sunodagh e o Desespero do Leste**
+#### **A Ascensão de Sunodagh e o Desespero do Oeste**
 
-Vinte anos se passaram, e Sunodagh não mais era uma criança indefesa. Agora, ele era um guerreiro, endurecido pela vida errante e pelas perdas. Ele reuniu os restos de várias raças que compartilhavam sua dor — criaturas do leste que, como ele, buscavam desesperadamente um lar e uma razão para lutar. Orcs, Minotauro, goblins e até tieflings se juntaram à sua causa. **Sunodagh** foi proclamado o novo chefe guerreiro, liderando um exército rebelde.
+Vinte anos se passaram, e Sunodagh não mais era uma criança indefesa. Agora, ele era um guerreiro, endurecido pela vida errante e pelas perdas. Ele reuniu os restos de várias raças que compartilhavam sua dor — criaturas do oeste que, como ele, buscavam desesperadamente um lar e uma razão para lutar. Orcs, Minotauro, goblins e até tieflings se juntaram à sua causa. **Sunodagh** foi proclamado o novo chefe guerreiro, liderando um exército rebelde.
 
 Por meses, a resistência de Sunodagh lutou contra as forças de Thay. Mesmo com seu povo exausto e enfraquecido, conseguiram resistir, emboscando pequenos exércitos de necromantes e arrasando postos avançados. Mas a queda era iminente. O Império de Thay era vasto, e a resistência de Sunodagh era uma faísca em meio à escuridão crescente.
 
-Com a morte de seus aliados e o desespero em seu povo, Sunodagh tomou uma decisão audaciosa. Ele partiu para o oeste, em uma missão solitária, buscando alianças que poderiam ser a última esperança do leste. **A viagem durou anos**, e ele atravessou terras estranhas e distantes, mas ao final de sua jornada, encontrou apenas rejeição. Os povos do oeste estavam preocupados com suas próprias guerras e não viam valor em se envolver em um conflito tão distante e perigoso quanto enfrentar Thay. Furioso, Sunodagh foi forçado a voltar de mãos vazias.
+Com a morte de seus aliados e o desespero em seu povo, Sunodagh tomou uma decisão audaciosa. Ele partiu para o leste, em uma missão solitária, buscando alianças que poderiam ser a última esperança do oeste. **A viagem durou anos**, e ele atravessou terras estranhas e distantes, mas ao final de sua jornada, encontrou apenas rejeição. Os povos do oeste estavam preocupados com suas próprias guerras e não viam valor em se envolver em um conflito tão distante e perigoso quanto enfrentar Thay. Furioso, Sunodagh foi forçado a voltar de mãos vazias.
 
-Quando ele finalmente chegou ao leste, sua esperança foi esmagada pela realidade: **não havia mais um lar para voltar**. Suas terras estavam destruídas, suas forças dizimadas e os poucos que restavam haviam sido corrompidos ou mortos pelos necromantes. Foi então que a **ira de Sunodagh** atingiu seu ápice. O guerreiro não apenas queria reconquistar seu lar — ele agora tinha um propósito maior: **destruir Dhes’zon**, o Lich King, e vingar a morte de seu povo.
+Quando ele finalmente chegou ao oeste, sua esperança foi esmagada pela realidade: **não havia mais um lar para voltar**. Suas terras estavam destruídas, suas forças dizimadas e os poucos que restavam haviam sido corrompidos ou mortos pelos necromantes. Foi então que a **ira de Sunodagh** atingiu seu ápice. O guerreiro não apenas queria reconquistar seu lar — ele agora tinha um propósito maior: **destruir Dhes’zon**, o Lich King, e vingar a morte de seu povo.
 
 #### **O Chamado para a Última Batalha**
 
@@ -28,7 +32,7 @@ Chegando ao campo de batalha, Sunodagh montou em Sulmthu e, com sua voz poderosa
 
 O exército rugiu em resposta, e a fúria que emanava das tropas fez o chão tremer. Os ventos sopravam ao seu favor, e os olhos de cada guerreiro brilhavam com a promessa de vingança e redenção. Era uma marcha para a morte, mas também uma marcha para a liberdade — uma última tentativa de reconquistar o que haviam perdido.
 
-#### **A Última Aliança do Leste**
+#### **A Última Aliança do Oeste**
 
 O exército de Sunodagh, ainda que pequeno, era composto por uma mistura única de criaturas e raças que, por muito tempo, haviam sido inimigas, mas que agora se uniam em uma causa comum. **Mamutes de guerra**, controlados por anões ferozes, avançavam ao lado de hordas de **werewolves** e **worgs**, que corriam com a sede de sangue no olhar. **Minotauros** empunhavam suas pesadas machadas de batalha, enquanto orcs agitavam suas espadas e machados em um frenesi de fúria.
 
@@ -40,9 +44,9 @@ Era uma força diversificada, mas com um propósito singular: destruir o Impéri
 
 Com Sunodagh na liderança, o exército começou sua marcha final. A fúria de décadas de opressão e destruição pulsava em seus corações. Eles sabiam que essa poderia ser sua última chance, a última oportunidade de recuperar o que lhes foi tirado. Cada passo que davam levava-os para mais perto de seu destino, e o rugido da guerra ecoava por Faerûn.
 
-O destino do leste estava em jogo, e Sunodagh sabia que, seja pela vitória ou pela morte, ele cumpriria sua promessa: **enfrentar Dhes’zon e, com sorte, cortar a cabeça do Lich King.**
+O destino do oeste estava em jogo, e Sunodagh sabia que, seja pela vitória ou pela morte, ele cumpriria sua promessa: **enfrentar Dhes’zon e, com sorte, cortar a cabeça do Lich King.**
 
-A **Última Batalha do Leste** estava prestes a começar.
+A **Última Batalha do Oeste** estava prestes a começar.
 
 #### **Portões de Thay**
 
@@ -52,13 +56,13 @@ O primeiro posto avançado de Thay estava mergulhado em uma falsa sensação de 
 
 De repente, o rugido ensurdecedor de Piggu, um dos poucos orcs restantes que cresceu junto de Sunodagh, cortou o ar, como o prelúdio de uma tempestade inevitável. Piggu, empunhava uma lança tão grande quanto ele próprio, seus músculos tensionados como cordas de aço. Com uma precisão selvagem, ele lançou a arma no ar com uma força tremenda. A lança rasgou o vento com um assobio mortal e atingiu seu alvo em cheio — a cabeça de um mago vermelho que meditava sob uma fogueira no centro do acampamento. A lâmina da lança atravessou seu crânio, silenciando sua magia e seu grito ao mesmo tempo. Seu corpo caiu pesadamente ao chão, a cabeça dilacerada pendendo, enquanto a fogueira que ele guardava crepitava ainda mais alto, como se celebrasse a morte de seu guardião.
 
-Piggu, sem hesitar, correu em direção ao corpo caído, arrancou a lança com um gesto brutal e, com um grito de guerra ensurdecedor, deu um chute feroz no cadáver inerte, arremessando-o para longe como um troféu. O rugido de Piggu se espalhou pelo campo, e o exército do Leste, até então contido, explodiu em uma fúria implacável.
+Piggu, sem hesitar, correu em direção ao corpo caído, arrancou a lança com um gesto brutal e, com um grito de guerra ensurdecedor, deu um chute feroz no cadáver inerte, arremessando-o para longe como um troféu. O rugido de Piggu se espalhou pelo campo, e o exército do Oeste, até então contido, explodiu em uma fúria implacável.
 
 **O avanço havia começado.**
 
 O primeiro posto avançado se tornou um redemoinho de caos e destruição. Os magos vermelhos tentavam reagir, conjurando magias devastadoras, mas o ataque foi rápido demais. O brilho de seus feitiços era rapidamente ofuscado pelo sangue que manchava o campo. Um sentimento de vitória breve percorreu o campo, mas todos sabiam que o verdadeiro desafio ainda estava por vir.
 
-**O exército do Leste avançou**, implacável, até que duas colinas surgiram à frente. Entre elas, **os exércitos de magos vermelhos já estavam em prontidão**, suas silhuetas ameaçadoras destacando-se sob a luz da lua vermelha. No topo das colinas, poderosos necromantes observavam, comandando legiões de mortos-vivos e constructos infernais. A energia negra que emanava de suas varinhas e cajados permeava o ar, tornando cada respiração difícil e cada movimento mais pesado.
+**O exército do Oeste avançou**, implacável, até que duas colinas surgiram à frente. Entre elas, **os exércitos de magos vermelhos já estavam em prontidão**, suas silhuetas ameaçadoras destacando-se sob a luz da lua vermelha. No topo das colinas, poderosos necromantes observavam, comandando legiões de mortos-vivos e constructos infernais. A energia negra que emanava de suas varinhas e cajados permeava o ar, tornando cada respiração difícil e cada movimento mais pesado.
 
 Mas o exército de Sunodagh não recuaria. Apesar das terríveis visões à frente, eles sabiam que recuar significava a morte certa. Com um rugido de comando, Sunodagh ordenou o avanço.
 
@@ -68,7 +72,7 @@ Mas os orcs não recuavam. Mesmo diante da morte certa, eles avançavam com seus
 
 Do outro lado, **os anões entraram em ação**. Carregando enormes arcos de ferro, equipados com flechas negras tão longas quanto lanças, eles lançavam uma chuva de projéteis contra os necromantes e seus constructos. Cada flecha carregava o peso de suas terras perdidas e seus parentes caídos, derrubando demônios e interrompendo a concentração dos magos, cujas conjurações eram dispersas no momento de sua execução.
 
-O campo entre as colinas se tornou um mar de sangue e caos. **O exército do Leste** enfrentava inimigos inimagináveis — demônios, mortos-vivos, constructos animados por magia negra. Mas eles não paravam. Mesmo enquanto suas fileiras diminuíam, seus corações queimavam com a determinação de alcançar os portões de Thay.
+O campo entre as colinas se tornou um mar de sangue e caos. **O exército do Oeste** enfrentava inimigos inimagináveis — demônios, mortos-vivos, constructos animados por magia negra. Mas eles não paravam. Mesmo enquanto suas fileiras diminuíam, seus corações queimavam com a determinação de alcançar os portões de Thay.
 
 Com a força do exército diminuindo a cada passo, eles finalmente avistaram os portões ao longe, envoltos em escuridão e magia. **As baixas eram incalculáveis**, e um frio percorreu a espinha dos guerreiros restantes. O medo começou a se espalhar entre eles, a compreensão de que o que estava por vir poderia significar o fim. Muitos dos que haviam lutado com tudo o que tinham agora questionavam se era possível sobreviver.
 
@@ -80,7 +84,7 @@ Gigantes de guerra, orcs e os remanescentes dos exércitos aliados tomavam posi�
 
 Enquanto as primeiras flechas e lanças de aço negro se chocavam contra os portões mágicos, criando explosões de faíscas e poder, o som de tambores ecoava da retaguarda do exército de Sunodagh. Os necromantes de Thay haviam decidido agir.
 
-De trás das muralhas, **os mortos se levantaram.** Criaturas esqueléticas e zumbis marchavam na direção do exército do Leste. Entre eles, monstros grotescos, costurados a partir de partes humanas e de bestas, avançavam com movimentos estranhos e erráticos, protegidos por magias que os faziam quase invulneráveis. As sombras se alongavam sob a luz da lua vermelha, dando às criaturas uma aparência ainda mais horrível.
+De trás das muralhas, **os mortos se levantaram.** Criaturas esqueléticas e zumbis marchavam na direção do exército do Oeste. Entre eles, monstros grotescos, costurados a partir de partes humanas e de bestas, avançavam com movimentos estranhos e erráticos, protegidos por magias que os faziam quase invulneráveis. As sombras se alongavam sob a luz da lua vermelha, dando às criaturas uma aparência ainda mais horrível.
 
 — **Piggu!** — gritou Sunodagh, apontando sua lança na direção dos mortos-vivos. — Leve os seus ao flanco direito. Não os deixe nos cercar!
 
